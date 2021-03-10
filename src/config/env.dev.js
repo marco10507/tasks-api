@@ -31,7 +31,7 @@ if (!clientOriginUrl) {
   );
 }
 
-const clientOrigins = ["https://bib99.csb.app"];
+const clientOrigins = ["http://localhost:4040"];
 
 module.exports = {
   audience,
